@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>State Department Feeds</title>
+    </head>
+    <body>
+        <outline text="Women's Issues" title="Women's Issues" type="rss" xmlUrl="https://www.state.gov/rss-feed/womens-issues/feed/" />
+        <outline text="Western Hemisphere" title="Western Hemisphere" type="rss" xmlUrl="https://www.state.gov/rss-feed/western-hemisphere/feed/" />
+        <outline text="Treaties" title="Treaties" type="rss" xmlUrl="https://www.state.gov/rss-feed/treaties-new/feed/" />
+        <outline text="Travel Advisories" title="Travel Advisories" type="rss" xmlUrl="https://travel.state.gov/_res/rss/TAsTWs.xml" />
+        <outline text="Trafficking in Persons" title="Trafficking in Persons" type="rss" xmlUrl="https://www.state.gov/rss-feed/trafficking-in-persons/feed/" />
+        <outline text="South and Central Asia" title="South and Central Asia" type="rss" xmlUrl="https://www.state.gov/rss-feed/south-and-central-asia/feed/" />
+        <outline text="Secretary's Remarks" title="Secretary's Remarks" type="rss" xmlUrl="https://www.state.gov/rss-feed/secretarys-remarks/feed/" />
+        <outline text="Public Schedule" title="Public Schedule" type="rss" xmlUrl="https://www.state.gov/rss-feed/public-schedule/feed/" />
+        <outline text="Press Releases" title="Press Releases" type="rss" xmlUrl="https://www.state.gov/rss-feed/press-releases/feed/" />
+        <outline text="Population, Refugees, and Migration" title="Population, Refugees, and Migration" type="rss" xmlUrl="https://www.state.gov/rss-feed/population-refugees-and-migration/feed/" />
+        <outline text="Near East" title="Near East" type="rss" xmlUrl="https://www.state.gov/rss-feed/near-east/feed/" />
+        <outline text="Law Enforcement, Narcotics, Anti-Corruption" title="Law Enforcement, Narcotics, Anti-Corruption" type="rss" xmlUrl="https://www.state.gov/rss-feed/law-enforcement-narcotics-anti-corruption/feed/" />
+        <outline text="International Organizations" title="International Organizations" type="rss" xmlUrl="https://www.state.gov/rss-feed/international-organizations/feed/" />
+        <outline text="International Health Issues" title="International Health Issues" type="rss" xmlUrl="https://www.state.gov/rss-feed/international-health-issues/feed/" />
+        <outline text="International Expositions" title="International Expositions" type="rss" xmlUrl="https://www.state.gov/rss-feed/international-expositions/feed/" />
+        <outline text="Europe and Eurasia" title="Europe and Eurasia" type="rss" xmlUrl="https://www.state.gov/rss-feed/europe-and-eurasia/feed/" />
+        <outline text="Economic, Energy, Agricultural, and Trade Issues" title="Economic, Energy, Agricultural, and Trade Issues" type="rss" xmlUrl="https://www.state.gov/rss-feed/economic-energy-agricultural-and-trade-issues/feed/" />
+        <outline text="East Asia and the Pacific" title="East Asia and the Pacific" type="rss" xmlUrl="https://www.state.gov/rss-feed/east-asia-and-the-pacific/feed/" />
+        <outline text="Direct Line to American Business" title="Direct Line to American Business" type="rss" xmlUrl="https://www.state.gov/rss-feed/direct-line-to-american-business/feed/" />
+        <outline text="Diplomatic Security" title="Diplomatic Security" type="rss" xmlUrl="https://www.state.gov/rss-feed/diplomatic-security/feed/" />
+        <outline text="Department Press Briefings" title="Department Press Briefings" type="rss" xmlUrl="https://www.state.gov/rss-feed/department-press-briefings/feed/" />
+        <outline text="Democracy, Human Rights, and Labor" title="Democracy, Human Rights, and Labor" type="rss" xmlUrl="https://www.state.gov/rss-feed/democracy-human-rights-and-labor/feed/" />
+        <outline text="Counterterrorism" title="Counterterrorism" type="rss" xmlUrl="https://www.state.gov/rss-feed/counterterrorism/feed/" />
+        <outline text="Collected Department Releases" title="Collected Department Releases" type="rss" xmlUrl="https://www.state.gov/rss-feed/collected-department-releases/feed/" />
+        <outline text="Climate, Environment, and Conservation" title="Climate, Environment, and Conservation" type="rss" xmlUrl="https://www.state.gov/rss-feed/climate-environment-and-conservation/feed/" />
+        <outline text="Arms Control and International Security" title="Arms Control and International Security" type="rss" xmlUrl="https://www.state.gov/rss-feed/arms-control-and-international-security/feed/" />
+        <outline text="Africa" title="Africa" type="rss" xmlUrl="https://www.state.gov/rss-feed/africa/feed/" />
+    </body>
+</opml>
